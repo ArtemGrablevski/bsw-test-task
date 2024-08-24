@@ -1,0 +1,6 @@
+class EventDoesNotExistException(BaseException):
+    ...
+
+
+class EventNotActiveException(BaseException):
+    ...

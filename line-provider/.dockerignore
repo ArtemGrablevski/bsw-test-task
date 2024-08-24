@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+README.md
+.gitignore
+*.log
+.vscode/
+.idea
+dev/
+tests/
