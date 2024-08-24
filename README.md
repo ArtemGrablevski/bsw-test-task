@@ -1,6 +1,6 @@
 # Bsw test task
 
-## Запуск по шашгам:
+## Запуск по шагам:
 1) Запуск RabbitMQ
 - Перейдите в папку rabbitmq: `cd rabbitmq`
 - Создайте `.env` файл по примеру файла `.env.example`
