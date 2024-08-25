@@ -1,10 +1,10 @@
-class EventDoesNotExistException(BaseException):
+class EventDoesNotExistException(Exception):
     ...
 
 
-class EventAlreadyExistsException(BaseException):
+class EventAlreadyExistsException(Exception):
     ...
 
 
-class InvalidEventDeadlineException(BaseException):
+class InvalidEventDeadlineException(Exception):
     ...
